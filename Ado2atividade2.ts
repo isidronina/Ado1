@@ -8,5 +8,5 @@ function regressivaAteUm(inicio: number): void {
   }
 }
 
-const numero = Number(ler("Digite um número: "));
+const numero = Number(ler("Digite um numero: "));
 regressivaAteUm(numero);
